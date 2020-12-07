@@ -8,12 +8,11 @@ Ciclo de Minicursos 2020 Sociedad Chilena de Estadística - SOCHE
 
 Los días 5 y 7 de enero
 
-Para realizar las actividades  del minicurso debera tener instalados en su PC: 
-
-R y Rstudio
-
-Y los paquetes que figuran en el archivo "paquetes a instalar.r"
-
-Este video tutorial lo guiará como hacerlo 
-
-Vídeo de Instalación de los paquetes para usar Rmarkdown
+<p>Para realizar las actividades&nbsp; del minicurso debera tener instalados en su PC:&nbsp;</p>
+<p><a href="https://www.r-project.org/">R</a> y <a href="https://rstudio.com/">Rstudio</a></p>
+<p>Y los paquetes que figuran en el archivo "paquetes a instalar.r"</p>
+<p>Este video tutorial lo guiar&aacute; como hacerlo&nbsp;</p>
+<ul>
+<li><a href="https://www.youtube.com/embed/QaKCirYknS8">V&iacute;deo de Instalaci&oacute;n de los paquetes para usar Rmarkdown</a></li>
+</ul>
+<p>&nbsp;</p>
